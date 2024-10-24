@@ -19,7 +19,7 @@ header {
 header h1 {
     margin: 0;
     font-size: 24px;
-    text-align: center; /* Center the title */
+    text-align: center;
 }
 
 nav.menu {
@@ -56,7 +56,7 @@ nav.menu ul li a:hover {
 }
 
 section {
-    margin-top: 100px;  /* Ensure content doesn't overlap with header */
+    margin-top: 100px;
     padding: 20px;
     background-color: white;
     border-radius: 8px;
@@ -74,6 +74,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
 
 
 
