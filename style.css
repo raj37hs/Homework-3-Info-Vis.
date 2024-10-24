@@ -66,14 +66,18 @@ section {
 }
 
 /* Styling for the image */
+/* Style for the profile photo */
 .profile-photo {
     display: block;
-    margin: 0 auto 20px auto; /* Centers the image and adds space below */
-    width: 300px; /* Sets the width to a normal size */
-    height: auto; /* Ensures the aspect ratio is maintained */
+    margin-bottom: 20px; /* Adds space below the image */
+    width: 300px; /* Adjust the width as needed */
+    height: auto; /* Keeps the aspect ratio */
     border-radius: 8px; /* Optional: adds slightly rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */
+    float: left; /* Floats the image to the left */
+    margin-right: 20px; /* Adds space between the image and the text */
 }
+
 
 footer {
     text-align: center;
