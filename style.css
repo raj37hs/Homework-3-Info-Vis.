@@ -65,6 +65,16 @@ section {
     margin-right: auto;
 }
 
+/* Styling for the image */
+.profile-photo {
+    display: block;
+    margin: 0 auto 20px auto; /* Centers the image and adds space below */
+    width: 300px; /* Sets the width to a normal size */
+    height: auto; /* Ensures the aspect ratio is maintained */
+    border-radius: 8px; /* Optional: adds slightly rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow */
+}
+
 footer {
     text-align: center;
     background-color: #333;
