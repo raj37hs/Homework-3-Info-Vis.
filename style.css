@@ -78,6 +78,17 @@ section {
 
 
 
+/* Style for the image */
+.mind-image {
+    float: right;
+    width: 300px; /* Adjust width as needed */
+    height: auto;
+    margin-left: 20px; /* Adds space between the text and the image */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
 footer {
     text-align: center;
     background-color: #333;
