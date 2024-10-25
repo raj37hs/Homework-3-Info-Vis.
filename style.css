@@ -99,6 +99,11 @@ footer {
     bottom: 0;
 }
 
+footer a {
+    color: #FFD700; /* Change the link color to gold */
+    
+}
+
 
 
 
