@@ -100,9 +100,15 @@ footer {
 }
 
 footer a {
-    color: #FFD700; /* Change the link color to gold */
-    
+    color: #FFD700; /* Ensure the color is applied */
+    text-decoration: none; /* Remove underline */
 }
+
+footer a:hover {
+    color: #FFA500; /* Color change on hover */
+    text-decoration: underline; /* Add underline on hover */
+}
+
 
 
 
