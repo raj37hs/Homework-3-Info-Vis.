@@ -68,24 +68,24 @@ section {
 }
 
 
-/* Style for the profile photo */
+
 .profile-photo {
     display: block;
     margin: 0 0 20px 0;
-    width: 300px; /* Adjust the width as needed */
-    height: auto; /* Keeps the aspect ratio */
-    border-radius: 8px; /* Optional: adds slightly rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */
+    width: 300px; 
+    height: auto; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
 
 
-/* Style for the image */
+
 .mind-image {
     float: right;
-    width: 300px; /* Adjust width as needed */
+    width: 300px; 
     height: auto;
-    margin-left: 20px; /* Adds space between the text and the image */
+    margin-left: 20px; 
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -102,8 +102,8 @@ footer {
 }
 
 footer a {
-    color: #FFD700; /* Ensure the color is applied */
-    text-decoration: none; /* Remove underline */
+    color: #FFD700; 
+    text-decoration: none; 
 }
 
 
