@@ -1,3 +1,6 @@
+//for the most part I followed along with class code, but there were a few spots where I got confused. I used stackoverflow, copilot,
+//, and TAs as resources to help me with areas I was confused with. 
+
 // Scatterplot Code
 (function() {
   const margin = { top: 30, right: 30, bottom: 50, left: 50 },
